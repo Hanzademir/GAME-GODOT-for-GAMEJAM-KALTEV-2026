@@ -8,6 +8,7 @@ kullandığımız oyun motoru olan Godot'un kompleks işlevlerini nasıl kullan�
 Kullanılan kaynaklar ve oyun motoruyla ilgili genel bilgiler:
 
 Oyunumuzun ismi: Gallium
+Dört kişilik bir takım olan Sprout Games tarafından yapılmıştır.
 
 Kullanılan şeyler:
 GODOT 4.6 STABLE
